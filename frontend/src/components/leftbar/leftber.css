@@ -1,0 +1,38 @@
+.leftber{
+    flex-basis: 100px;
+    height: calc(100vh - 50px);
+    
+
+}
+
+.leftberWrapper{
+    padding: 20px;
+}
+
+.leftberLisr{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.leftberItem{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.leftberItem:hover{
+    
+    background-color: blueviolet;
+}
+.leftberIcom{
+    font-size: 30px !important;
+    margin-bottom: 5px;
+}
+
+.leftberListItemText{
+    font-size: 12px;
+}

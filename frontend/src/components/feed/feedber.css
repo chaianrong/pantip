@@ -1,0 +1,14 @@
+.feedber{
+    flex: 1;
+}
+.feedberTopIng{
+    width: 100%;
+    height: 10%
+
+}
+.feedberWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
